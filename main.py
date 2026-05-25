@@ -10,7 +10,7 @@ import telebot
 from telebot import types
 
 # ==================== التكوين الأساسي والمحدث ====================
-BOT_TOKEN = "8794664378:AAEDLbf74yaRH1yTI3q270InXgPucve6PWQ"
+BOT_TOKEN = "8794664378:AAFcVsAZYI88fNjHk35sBZ-xwe0ZfjPo5uE"
 ADMIN_ID = 6532494160  
 BOT_NAME = "Radwan Djezzy Bot"
 LOGS_CHANNEL_USERNAME = "@Djezey_3"  # قناة الإثباتات والنشاطات
